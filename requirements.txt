@@ -1,0 +1,4 @@
+apt install -y --no-install-recommends libmongodb-perl libjson-perl
+
+libmongodb-perl - Mongo Driver for Perl
+libjson-perl - module pour manipuler des données au format JSON
